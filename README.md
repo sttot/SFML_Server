@@ -9,7 +9,5 @@ The other a Client Side based program for sending and receiving information to a
 # Additional Libraries
 Included in both are the SFML 2.4 Libraries compatible with Visual Studio 2013 (32-Bit). These libraries are needed in order for execution to occur.
 
-# Warning
-The program is known to be temperamental with working in release format and as such, a debug mode for this program is recommended for testing of the programs and their compatibility with one another
-
-Connecting to the server through the 
+# Executable
+The executable file can be found within the Release folder of each side of the server implementation. Do not remove the executable from this folder as all files are necessary for the .exe to function correctly. 
